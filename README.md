@@ -1,0 +1,1 @@
+This is the capstone project for the Google Advanced Data Analytics Course. This specialization comprises eight courses, each concluding with a project. Together, these eight projects form the capstone project.
